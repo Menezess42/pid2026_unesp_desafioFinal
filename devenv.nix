@@ -21,6 +21,7 @@
             plotly
             nbformat
             (p.opencv4.override { enableGtk3 = true; enableFfmpeg = true; })
+            pyqt5
         ]);
         venv.enable = true;
     };
