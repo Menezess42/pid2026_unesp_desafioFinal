@@ -1,0 +1,28 @@
+figure.facecolor : 22303C
+figure.edgecolor : 22303C
+
+axes.facecolor : 22303C
+axes.edgecolor : 6C7A89
+axes.labelcolor : E6D5B8
+axes.titlecolor : ECE6D8
+
+text.color : E6D5B8
+
+xtick.color : CFC8B5
+ytick.color : CFC8B5
+
+axes.grid : True
+grid.color : 415A77
+grid.alpha : 0.4
+grid.linestyle : --
+
+lines.linewidth : 2.5
+
+legend.facecolor : 1B263B
+legend.edgecolor : 415A77
+legend.labelcolor : E6D5B8
+
+savefig.facecolor : 22303C
+savefig.edgecolor : 22303C
+
+axes.prop_cycle : cycler('color', ['48C4F8', '00D2C3', 'CC6E2E', 'F05A22', 'C28840', '6C7A89'])
